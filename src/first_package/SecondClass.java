@@ -1,4 +1,4 @@
-package part1;
+package first_package;
 
 public class SecondClass {
 
